@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Postgraduate research student at the University of Warwick. <br>I'm currently working on research in computational pathology.
+I am Esha Sadia Nasir a Postgraduate research student at the University of Warwick. <br>I'm currently working on research in computational pathology.
 
 
 ## 🌐 Socials:
